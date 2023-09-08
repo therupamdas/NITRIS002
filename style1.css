@@ -15,8 +15,14 @@ body{
 .login{
     display: flex;
     justify-content: center;
-    row-gap: 30px;
+}
+.box img{
+    
+}
+.box{
+    padding: 6px;
 }
 input{
     text-align: center;
+    height: 30px;
 }
