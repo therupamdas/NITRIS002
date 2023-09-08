@@ -1,9 +1,7 @@
 body{
-    background-image: url('./pics/Back.png'); /* Replace 'path/to/your-image.jpg' with the actual path to your image */
-  background-size: cover; /* Adjust how the background image is displayed */
-  background-repeat: no-repeat; /* Prevent the background image from repeating */
-  /* You can also set other background properties such as position, attachment, etc. */
-
+    background-image: url('./pics/Back.png');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .bigbar
 {
