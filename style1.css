@@ -1,0 +1,14 @@
+body{
+    background-color: whitesmoke;
+}
+.bigbar
+{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+.bigbar img{
+    height: 100px;
+    padding: 20px;
+    padding-bottom: 30px;
+}
