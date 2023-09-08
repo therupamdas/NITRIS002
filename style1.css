@@ -13,16 +13,26 @@ body{
     padding-bottom: 30px;
 }
 .login{
+    height: 150px;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 .box img{
-    
+    height: 34px;
+    border-right: solid 1px rgb(51, 51, 51);
+
 }
 .box{
-    padding: 6px;
+    border: border-box;
+    border: solid 1px rgb(51, 51, 51);
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 input{
     text-align: center;
     height: 30px;
+    border:0;
 }
