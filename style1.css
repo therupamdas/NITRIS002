@@ -15,9 +15,8 @@ body{
 .login{
     display: flex;
     justify-content: center;
-    flex-wrap: wrap;
     row-gap: 30px;
 }
-#box{
-
+input{
+    text-align: center;
 }
