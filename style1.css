@@ -20,12 +20,12 @@ body{
 }
 .box img{
     height: 34px;
-    border-right: solid 1px rgb(51, 51, 51);
+    border-right: solid 1px rgb(114, 114, 114);
 
 }
 .box{
     border: border-box;
-    border: solid 1px rgb(51, 51, 51);
+    border: solid 1px rgb(114, 114, 114);
     border-radius: 2px;
     display: flex;
     justify-content: center;
