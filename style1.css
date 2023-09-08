@@ -12,7 +12,7 @@ body{
 .bigbar img{
     height: 100px;
     padding: 20px;
-    padding-bottom: 30px;
+    padding-bottom: 40px;
 }
 #logbox{
     background-color: white;
@@ -44,6 +44,7 @@ input{
 }
 #fp a{
     text-decoration: none;
+
 }
 #fp{
     text-align: right;
@@ -62,6 +63,12 @@ input{
     border: none;
     border-radius: 2px;
     transition: all ease 0.2s;
+}
+#lb a{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 16px;
 }
 #lb:hover  button{
     background-color: rgb(25, 59, 255);
