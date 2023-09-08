@@ -12,8 +12,11 @@ body{
     padding: 20px;
     padding-bottom: 30px;
 }
+#logbox{
+    background-color: white;
+    padding: 20px;
+}
 .login{
-    height: 150px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -35,4 +38,13 @@ input{
     text-align: center;
     height: 30px;
     border:0;
+}
+#fp a{
+    text-decoration: none;
+}
+#fp{
+    text-align: right;
+    font-size: 13px;
+    padding: 8px;
+    padding-right: 1px;
 }
