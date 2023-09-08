@@ -12,3 +12,12 @@ body{
     padding: 20px;
     padding-bottom: 30px;
 }
+.login{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    row-gap: 30px;
+}
+#box{
+
+}
