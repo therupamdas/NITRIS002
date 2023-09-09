@@ -35,6 +35,9 @@ body{
     border-right: solid 1px rgb(114, 114, 114);
 
 }
+.inbox img{
+    aspect-ratio: 16/9;
+}
 .box{
     border: border-box;
     border: solid 1px rgb(114, 114, 114);
