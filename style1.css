@@ -96,16 +96,22 @@ input{
     height: 160px;
     border: solid 4px white;
     border-radius: 3px;
+    transition: all ease 0.2s;
     
 }
 .bt{
     text-align: center;
-    color: rgb(73, 73, 73);
+    color: rgb(39, 39, 39);;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
 }
+.inbox:hover img{
+    border: solid 4px rgb(190, 190, 190);
+    scale: 0.995;
+}
 .inbox:hover .bt{
-    color: rgb(39, 39, 39);
+    
+    color: rgb(122, 122, 122);
 }
 .inbox{
     padding: 30px;
