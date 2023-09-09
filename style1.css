@@ -87,14 +87,16 @@ input{
     flex-wrap: wrap;
     width: 100%;
     justify-content: space-evenly;
+    background-color: #ffffff42;
 }
 #az{
     width: 100%;
 }
 .otherbox img{
     height: 160px;
-    border: solid 3px rgb(187, 187, 187);
+    border: solid 4px white;
     border-radius: 3px;
+    
 }
 .bt{
     text-align: center;
