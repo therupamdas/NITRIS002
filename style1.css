@@ -14,15 +14,21 @@ body{
     padding: 20px;
     padding-bottom: 40px;
 }
+
 #logbox{
     background-color: white;
     padding: 20px;
     border-radius: 5px;
+    transition: all ease 0.2s;
+}
+#logbox:hover{
+    scale: 1.02;
 }
 .login{
     display: flex;
     justify-content: center;
     align-items: center;
+    transition: all ease 0.2s;
 }
 .box img{
     height: 34px;
@@ -106,8 +112,8 @@ input{
     font-size: 20px;
 }
 .inbox:hover img{
-    border: solid 4px rgb(190, 190, 190);
-    scale: 0.995;
+    border: solid 4px rgb(224, 224, 224);
+    scale: 1.01;
 }
 .inbox:hover .bt{
     
