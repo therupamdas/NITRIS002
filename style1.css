@@ -78,3 +78,33 @@ input{
     font-size: 15px;
     background-color: rgb(25, 60, 255);
   }
+.otherbox {
+    text-align: center;
+    color: rgb(255, 153, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    display:flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-evenly;
+}
+#az{
+    width: 100%;
+}
+.otherbox img{
+    height: 160px;
+    border: solid 3px rgb(187, 187, 187);
+    border-radius: 3px;
+}
+.bt{
+    text-align: center;
+    color: rgb(73, 73, 73);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.inbox:hover .bt{
+    color: rgb(39, 39, 39);
+}
+.inbox{
+    padding: 30px;
+}
